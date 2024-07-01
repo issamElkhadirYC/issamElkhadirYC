@@ -1,6 +1,5 @@
 <div align="center">
   <h2 align="left">Hi there! 👋 I'm Issam Elkhadir, a Software Engineer from Morocco</h2>
-  <img align="center" height="50%" width="70%" src="https://raw.githubusercontent.com/sayantan02/sayantan02/main/developer.gif"  />
 </div>
 
 <br clear="both">
