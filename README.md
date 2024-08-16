@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="left">Hi there! 👋 I'm Issam Elkhadir, a Software Engineer from Morocco</h2>
+  <h2 align="left">Hi there! 👋 I'm Issam Elkhadir, a Full stack developer from Morocco</h2>
 </div>
 
 <br clear="both">
