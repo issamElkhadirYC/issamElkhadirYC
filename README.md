@@ -1,15 +1,9 @@
-<div align="center">
-  <h2 align="left">Hi there 👋 ! I'm Issam El-khadir, a Full stack developer from Morocco </h2>
-</div>
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/issam-elkhadir/">
-    <img 
-        src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-        height="35" 
-        alt="linkedin logo" 
-      />
-  </a>
-</div>
+<p align="center">
+  <samp align="center">
+    Experienced Full Stack Devloper with strong background in <strong title="PHP/Laravel">PHP/Laravel Ecosystem</strong> and <strong title="Vue.js/Nuxt.js">Vue.js/Nuxt.js</strong>.
+    <br/>
+    <a href="https://www.linkedin.com/in/issam-elkhadir/">LinkedIn</a> .
+    <a href="https://twitter.com/issam_elkhader">Twitter</a> .
+    <a href="https://www.upwork.com/freelancers/~012db6f314e5d821ac?mp_source=share">Upwork</a> .
+  </samp>
+</p>
